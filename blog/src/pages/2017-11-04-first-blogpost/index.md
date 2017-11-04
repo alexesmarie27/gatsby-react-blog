@@ -1,7 +1,13 @@
 ---
-path: "/hello-world"
+path: "/first-post"
 date: "2017-11-04T13:00:00.000Z"
-title: "My First Gatsby Post"
+title: "My First Blog Post"
 ---
 
-My first blog post!
+<div>
+    <p>Hello everyone!</p>
+    <p>This is my first ever blog post, so bear with me through this learning curve. My name is Alexes Presswood, and I am the creator and writer on this unnamed (at the time of writing this) blog. I am a software developer with a love for mobile development, but I also have a love for learning in general. I had never used React before, so that mixed with the fact that I was interested in starting a blog on things that interest me made me create the site you are on now.</p>
+    <p>I will use this site as a way for me to showcase my interests. I will have coding tutorials, fashion and beauty posts, traveling diaries, and really just anything else that suites my fancy at the time.</p>
+    <p>Thanks for visiting, and I am excited to post more in the future!</p>
+    <p>Alexes</p>
+</div>
